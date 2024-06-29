@@ -1,4 +1,4 @@
-This is all the code used for the master thesis of Marleen solimna at the NKI.
+This is all the code used for the master thesis of Marleen Soliman at the NKI.
 
 # Disclaimer
 
